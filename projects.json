@@ -1,0 +1,128 @@
+    [ 
+    {
+        "title": "Assignment Generation Bot (Flowzo Integration)",
+        "slug": "assignment-generator",
+        "short": "Generates long-form assignments with formatting, citations, and configurable requirements.",
+        "long": "An end-to-end generator that assembles 4000+ word assignments according to detailed requirements, formatting, and citation rules. Integrated with Flowzo for automation and delivery.",
+        "tags": ["automation","ai"],
+        "url": "https://github.com/Asmahann/assignment-generator",
+        "demo": ""
+    },
+    {
+        "title": "FileReader API",
+        "slug": "file-reader-api",
+        "short": "Universal file ingestion API that parses & classifies many file types.",
+        "long": "API for ingesting 12+ file types (PDF, DOCX, images), extracting text & metadata, classifying file kinds (Task / Non-Task), and routing content to agents/KBs.",
+        "tags": ["tooling","web"],
+        "url": "https://github.com/Asmahann/FileReader-API",
+        "demo": ""
+    },
+    {
+        "title": "ChatReader API",
+        "slug": "chat-reader-api",
+        "short": "Chat-enabled document reader API for conversational access to documents.",
+        "long": "API that enables chat-style interactions over ingested documents. Uses vector embeddings and RAG to answer queries about documents conversationally.",
+        "tags": ["ai","tooling"],
+        "url": "https://github.com/Asmahann/ChatReader-API",
+        "demo": ""
+    },
+    {
+        "title": "Extract Transform Load Project",
+        "slug": "extract-transform-load-project",
+        "short": "ETL pipeline & sample data workflows.",
+        "long": "An Extract-Transform-Load pipeline implemented with Python, showing data ingestion, cleaning, transformation, and loading into databases/storage for analytics.",
+        "tags": ["web","automation"],
+        "url": "https://github.com/Asmahann/ExtractTransformLoad-Project",
+        "demo": ""
+    },
+    {
+        "title": "Facebook Automation (fb-automate)",
+        "slug": "fb-automate",
+        "short": "Automation scripts & bots for Facebook workflows.",
+        "long": "Scripts and automation to perform Facebook tasks at scale, including posting, scraping, and automated interactions where allowed.",
+        "tags": ["automation","web"],
+        "url": "https://github.com/Asmahann/fb-automate",
+        "demo": ""
+    },
+    {
+      "title": "AI-Based Music Recommender System (FYP)",
+      "slug": "music-recommender",
+      "short": "Collaborative-filtering engine in PyTorch for personalized music recommendations.",
+      "long": "A research-focused collaborative filtering recommender built with PyTorch. Includes dataset preprocessing, model training, and evaluation. Designed to produce personalized playlists and recommendations.",
+      "tags": ["ai","ml"],
+      "url": "https://github.com/Asmahann/music-recommender-system",
+      "demo": ""
+    },
+    {
+      "title": "RAG Methodology with LangChain",
+      "slug": "rag-langchain-demo",
+      "short": "Conversational assistant enhanced with Retrieval-Augmented Generation (RAG).",
+      "long": "Demonstrates retrieval-augmented generation using LangChain, vector stores, and prompt engineering to create context-aware conversational assistants.",
+      "tags": ["ai","tooling"],
+      "url": "https://github.com/Asmahann/rag-langchain",
+      "demo": ""
+    },
+    {
+      "title": "Web Scraping & Automation",
+      "slug": "scrape-and-automate",
+      "short": "Scripts & tools for extracting data at scale (dynamic scraping, proxies, scheduling).",
+      "long": "A collection of scraping utilities and automation scripts built with Selenium, requests, and robust retry/proxy patterns. Includes schedulers and sample ETL pipelines.",
+      "tags": ["automation","web"],
+      "url": "https://github.com/Asmahann/scrape-and-automate",
+      "demo": ""
+    },
+    {
+      "title": "Chatbots & Telegram Bots",
+      "slug": "telegram-bot-suite",
+      "short": "Multi-purpose Telegram bots for notifications, support, and automation.",
+      "long": "A set of Telegram bots with webhook and polling options. Includes integrations for notifications, user interactions, and automations.",
+      "tags": ["automation","tooling"],
+      "url": "https://github.com/Asmahann/telegram-bot-suite",
+      "demo": ""
+    },
+    {
+      "title": "Multiple PDFs Questioner",
+      "slug": "pdf-qa-engine",
+      "short": "Upload a folder of PDFs and ask questions using vector search and RAG.",
+      "long": "An app that ingests multiple PDFs, creates vector embeddings, and answers user queries using RAG. Useful for summarizing large document sets and Q&A.",
+      "tags": ["ai","tooling"],
+      "url": "https://github.com/Asmahann/pdf-qa-engine",
+      "demo": ""
+    },
+    {
+      "title": "WhatsApp Intent Classifier",
+      "slug": "whatsapp-intent-bot",
+      "short": "Pipeline to classify WhatsApp messages and trigger agentic automation flows.",
+      "long": "Ingests WhatsApp messages, classifies intents using ML, and triggers automated flows or agent responses (integrated with Flowzo).",
+      "tags": ["automation","ai"],
+      "url": "https://github.com/Asmahann/whatsapp-intent-bot",
+      "demo": ""
+    },
+    {
+      "title": "GenAI Resume Builder",
+      "slug": "genai-resume-builder",
+      "short": "Resume generator using LLMs and templates tailored to job descriptions.",
+      "long": "Generates optimized resumes for ATS using LLMs, templates, and keyword optimization for various job descriptions.",
+      "tags": ["ai","tooling"],
+      "url": "https://github.com/Asmahann/genai-resume-builder",
+      "demo": ""
+    },
+    {
+      "title": "E-commerce Price Tracker",
+      "slug": "price-tracker",
+      "short": "Tracks product prices, alerts on drops, and stores historical trends.",
+      "long": "Monitors prices across retailers, applies rate-limiting/resiliency, stores historical data, and sends alerts on significant price changes.",
+      "tags": ["web","automation"],
+      "url": "https://github.com/Asmahann/crypto-price-tracker",
+      "demo": ""
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "slug": "asmahan-portfolio",
+      "short": "This personal site showcasing projects, blog posts, and contact details.",
+      "long": "Static portfolio site with CI/CD to GitHub Pages. Includes project listings, a blog section (optional), and contact forms integrated via third-party services.",
+      "tags": ["web","tooling"],
+      "url": "https://github.com/Asmahann/asmahan-portfolio",
+      "demo": ""
+    }
+  ]
