@@ -45,6 +45,15 @@
         "demo": ""
     },
     {
+      "title": "ContactBook with Login",
+      "slug": "Django CRUD contactbook",
+      "short": "A small contactbook using CRUD operations in Django with login function",
+      "long": "Ingests contacts once you're a user of the site",
+      "tags": ["Framework","Django,drf"],
+      "url": "https://github.com/Asmahann/ContactBook",
+      "demo": ""
+    },
+    {
       "title": "Personal Portfolio Website",
       "slug": "asmahan-portfolio",
       "short": "This personal site showcasing projects, blog posts, and contact details.",
@@ -87,15 +96,6 @@
       "long": "An app that ingests multiple PDFs, creates vector embeddings, and answers user queries using RAG. Useful for summarizing large document sets and Q&A.",
       "tags": ["ai","tooling"],
       "url": "https://github.com/Asmahann/pdf-qa-engine",
-      "demo": ""
-    },
-    {
-      "title": "ContactBook with Login",
-      "slug": "Django CRUD contactbook",
-      "short": "A small contactbook using CRUD operations in Django with login function",
-      "long": "Ingests contacts once you're a user of the site",
-      "tags": ["Framework","Django,drf"],
-      "url": "https://github.com/Asmahann/ContactBook",
       "demo": ""
     },
     {
