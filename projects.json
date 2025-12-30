@@ -20,7 +20,7 @@
     {
         "title": "ChatReader API",
         "slug": "chat-reader-api",
-        "short": "Multi-Agentic Chatbot API that uses intent classifiacation and RAG for understanding user queries",
+        "short": "Multi-Agentic Chatbot API that uses intent classification and RAG for understanding user queries",
         "long": "API that enables bot to understand user chats. Uses vector embeddings and RAG to answer queries about documents conversationally.",
         "tags": ["ai","tooling"],
         "url": "https://github.com/Asmahann/ChatReader-API",
