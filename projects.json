@@ -1,11 +1,11 @@
     [ 
     {
-        "title": "Assignment Generation Bot (Flowzo Integration)",
+        "title": "Assignment Generation Bot",
         "slug": "assignment-generator",
         "short": "Generates long-form assignments with formatting, citations, and configurable requirements.",
         "long": "An end-to-end generator that assembles 4000+ word assignments according to detailed requirements, formatting, and citation rules. Integrated with Flowzo for automation and delivery.",
         "tags": ["automation","ai"],
-        "url": "https://github.com/Asmahann/assignment-generator",
+        "url": "https://github.com/Asmahann/AssignmentGenius",
         "demo": ""
     },
     {
@@ -36,23 +36,23 @@
         "demo": ""
     },
     {
-        "title": "Facebook Automation (fb-automate)",
+        "title": "Facebook Automation",
         "slug": "fb-automate",
-        "short": "Automation scripts & bots for Facebook workflows.",
-        "long": "Scripts and automation to perform Facebook tasks at scale, including posting, scraping, and automated interactions where allowed.",
+        "short": "Standalone Automation bot for Facebook workflows.",
+        "long": "Scripts and automation to perform Facebook tasks at scale, including logging in, searching , scraping, comparing profiles, auditing logs sending messages and automated interactions where allowed.",
         "tags": ["automation","web"],
-        "url": "https://github.com/Asmahann/fb-automate",
+        "url": "https://github.com/Asmahann/FacebookAutomation",
         "demo": ""
     },
     {
-      "title": "AI-Based Music Recommender System (FYP)",
-      "slug": "music-recommender",
-      "short": "Collaborative-filtering engine in PyTorch for personalized music recommendations.",
-      "long": "A research-focused collaborative filtering recommender built with PyTorch. Includes dataset preprocessing, model training, and evaluation. Designed to produce personalized playlists and recommendations.",
-      "tags": ["ai","ml"],
-      "url": "https://github.com/Asmahann/music-recommender-system",
+      "title": "Personal Portfolio Website",
+      "slug": "asmahan-portfolio",
+      "short": "This personal site showcasing projects, blog posts, and contact details.",
+      "long": "Static portfolio site with CI/CD to GitHub Pages. Includes project listings, a blog section (optional), and contact forms integrated via third-party services.",
+      "tags": ["web","tooling"],
+      "url": "https://github.com/Asmahann/asmahan-portfolio",
       "demo": ""
-    },
+    } ,
     {
       "title": "RAG Methodology with LangChain",
       "slug": "rag-langchain-demo",
@@ -90,12 +90,12 @@
       "demo": ""
     },
     {
-      "title": "WhatsApp Intent Classifier",
-      "slug": "whatsapp-intent-bot",
-      "short": "Pipeline to classify WhatsApp messages and trigger agentic automation flows.",
-      "long": "Ingests WhatsApp messages, classifies intents using ML, and triggers automated flows or agent responses (integrated with Flowzo).",
-      "tags": ["automation","ai"],
-      "url": "https://github.com/Asmahann/whatsapp-intent-bot",
+      "title": "ContactBook with Login",
+      "slug": "Django CRUD contactbook",
+      "short": "A small contactbook using CRUD operations in Django with login function",
+      "long": "Ingests contacts once you're a user of the site",
+      "tags": ["Framework","Django,drf"],
+      "url": "https://github.com/Asmahann/ContactBook",
       "demo": ""
     },
     {
@@ -113,16 +113,16 @@
       "short": "Tracks product prices, alerts on drops, and stores historical trends.",
       "long": "Monitors prices across retailers, applies rate-limiting/resiliency, stores historical data, and sends alerts on significant price changes.",
       "tags": ["web","automation"],
-      "url": "https://github.com/Asmahann/crypto-price-tracker",
+      "url": "https://github.com/Asmahann/Crypto",
       "demo": ""
     },
     {
-      "title": "Personal Portfolio Website",
-      "slug": "asmahan-portfolio",
-      "short": "This personal site showcasing projects, blog posts, and contact details.",
-      "long": "Static portfolio site with CI/CD to GitHub Pages. Includes project listings, a blog section (optional), and contact forms integrated via third-party services.",
-      "tags": ["web","tooling"],
-      "url": "https://github.com/Asmahann/asmahan-portfolio",
+      "title": "AI-Based Music Recommender System (FYP)",
+      "slug": "music-recommender",
+      "short": "Collaborative-filtering engine in PyTorch for personalized music recommendations.",
+      "long": "A research-focused collaborative filtering recommender built with PyTorch. Includes dataset preprocessing, model training, and evaluation. Designed to produce personalized playlists and recommendations.",
+      "tags": ["ai","ml"],
+      "url": "https://github.com/Asmahann/music-recommender-system",
       "demo": ""
     }
   ]
