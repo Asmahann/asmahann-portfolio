@@ -1,6 +1,7 @@
 # Portfolio site Asmahan Umer
 
 Click here: https://asmahann.github.io/asmahann-portfolio/
+
 This repository contains a simple static portfolio site that dynamically loads projects from `projects.json`.
 
 Preview locally:
